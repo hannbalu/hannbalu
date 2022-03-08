@@ -24,4 +24,8 @@
 
 <!-- Github Status -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannbalu&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannbalu&show_icons=true&theme=dracula)
+
+<!-- GitHub Profile Trophy -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hannbalu&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
