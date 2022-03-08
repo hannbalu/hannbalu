@@ -1,6 +1,6 @@
 <!-- Avatar -->
 <div align="center">
-    <img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjoxMiwibW91dGgiOjE3LCJleWVzIjo5LCJleWVicm93cyI6MTQsImdsYXNzZXMiOjUsImhhaXIiOjM4LCJhY2Nlc3NvcmllcyI6MTMsImRldGFpbHMiOjMsImJlYXJkIjowLCJmbGlwIjoxLCJjb2xvciI6IiNmZmZmZmYiLCJzaGFwZSI6ImNpcmNsZSJ9" 
+    <img src="https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo0LCJub3NlIjowLCJtb3V0aCI6MTcsImV5ZXMiOjksImV5ZWJyb3dzIjoxNCwiZ2xhc3NlcyI6NSwiaGFpciI6MzQsImFjY2Vzc29yaWVzIjoxMywiZGV0YWlscyI6MywiYmVhcmQiOjAsImZsaXAiOjEsImNvbG9yIjoiIzBlMTExNyIsInNoYXBlIjoic3F1YXJlIn0=" 
         width="150px"
         height="150px"
         alt="notion avatar">
@@ -16,8 +16,8 @@
 
 # Introduction :computer:
 
-- :school:ECNU - MSc in Harbor, Coastal and Offshore Engineering, 9/2018 - 6/2022.
-- :office:DEWU - Frontend developer in frontend platform,DEWU Shanghai.
+- :school: ECNU - MSc in Harbor, Coastal and Offshore Engineering, 9/2018 - 6/2022.
+- :office: DEWU - Frontend developer in frontend platform,DEWU Shanghai.
 - :dart: TypeScript/JavaScript. Next.js. React/Vue.
 - :e-mail: Email me at: [hannibalu666@gmail.com](mailto:hannibalu666@gmail.com)
 - :video_game: 老游戏宅了 加我好友一起开黑呀: Nintendo: /PlayStation: /Xbox:
